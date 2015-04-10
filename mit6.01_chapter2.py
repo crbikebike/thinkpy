@@ -9,3 +9,5 @@ import ifpy
 if __name__ == '__main__':
     ifpy.foodFunction(4,8)
     ifpy.catOrDog(88)
+    list = ifpy.prefixLimit([4,2,3],5)
+    print list
