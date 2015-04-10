@@ -1,4 +1,4 @@
-#Determine butt size and number of pies
+6  #Determine butt size and number of pies
 def buttFunction(buttNum,pies):
 	#butt measurements
 	if buttNum <= 6 :
