@@ -1,5 +1,6 @@
 __author__ = 'ChrisKristen'
 
+import math
 
 if __name__ == '__main__':
 
@@ -32,4 +33,7 @@ if __name__ == '__main__':
 
     printTwice(bottlecap)
 
+    math.log10(45)
+
     concantMachine('hello','kitty')
+
