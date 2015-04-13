@@ -1,4 +1,4 @@
-# This module holds functions that have been written for use when completing the
+# This library holds functions that have been written for use when completing the
 #open courseware of intro to programming from MIT: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/readings/
 
 # Determine oat temp and number of pies
