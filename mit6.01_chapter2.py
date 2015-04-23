@@ -11,3 +11,5 @@ if __name__ == '__main__':
     ifpy.catOrDog(88)
     list = ifpy.prefixLimit([4,2,3],5)
     print list
+    sumz = ifpy.rangerDanger(10)
+    print sumz

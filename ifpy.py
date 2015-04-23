@@ -35,3 +35,11 @@ def prefixLimit(nums, limit):
         if sum > limit:
             return prefix
 
+
+def rangerDanger(n):
+        rangeSum = 0
+        numRange = range(n)
+        for num in numRange:
+            rangeSum += num*num
+        return rangeSum
+
